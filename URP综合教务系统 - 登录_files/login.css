@@ -1,0 +1,66 @@
+body {
+	background-color: rgb(255, 255, 255);
+}
+a:link {
+	color: rgb(0, 0, 0); text-decoration: none;
+}
+a:visited {
+	color: rgb(0, 0, 0); text-decoration: none;
+}
+a:hover {
+	color: rgb(255, 255, 255); text-decoration: none;
+}
+.btn01 {
+	background-position: center; width: 49px; height: 21px; text-align: center; color: rgb(255, 255, 255); font-family: Arial; font-size: 12px; vertical-align: middle; background-image: url("../../img/pic/login/btn01.jpg"); background-repeat: no-repeat;
+}
+.btn02 {
+	background-position: center; width: 49px; height: 21px; text-align: center; color: rgb(255, 255, 255); font-family: Arial; font-size: 12px; vertical-align: middle; background-image: url("../../img/pic/login/btn02.jpg"); background-repeat: no-repeat;
+}
+.btn03 {
+	background-position: center; width: 49px; height: 21px; text-align: center; color: rgb(255, 255, 255); font-family: Arial; font-size: 12px; vertical-align: middle; background-image: url("../../img/login/btn03.jpg"); background-repeat: no-repeat;
+}
+.linelogin {
+	width: 525px; height: 7px; background-color: rgb(91, 134, 198);
+}
+.adtitle {
+	color: rgb(0, 0, 0); font-family: Arial; font-size: 11px; vertical-align: bottom;
+}
+.mainbox {
+	border-style: none solid; border-color: rgb(51, 51, 51); width: 525px; height: 285px; border-right-width: 1px; border-left-width: 1px; background-color: rgb(230, 239, 251);
+}
+.bottom {
+	text-align: center; color: rgb(255, 255, 255); font-family: Arial; font-size: 11px; vertical-align: middle; background-image: url("../../img/pic/login/bg-bottom.jpg"); background-repeat: repeat-x;
+}
+.input01 {
+	border: 1px solid rgb(102, 102, 102); border-image: none; width: 220px; height: 21px;
+}
+.font-b {
+	color: rgb(0, 51, 102); font-family: Arial; font-size: 12px; font-weight: bold;
+}
+.font11 {
+	text-align: left; color: rgb(0, 51, 102); font-family: Arial; font-size: 11px; vertical-align: top; position: relative;
+}
+.font10black {
+	text-align: left; color: rgb(0, 0, 0); font-family: Arial; font-size: 10px; vertical-align: top; position: relative;
+}
+.font12 {
+	text-align: left; color: rgb(0, 51, 102); font-family: Arial; font-size: 12px; vertical-align: bottom;
+}
+table.errorLine {
+	border: 0px solid rgb(204, 153, 102);
+}
+table.error {
+	border: 0px solid rgb(255, 255, 255); border-image: none;
+}
+table.errorF td {
+	color: rgb(255, 0, 0); font-family: "Arial"; font-size: 11px; text-decoration: none;
+}
+table.errorF td.errorTop {
+	color: rgb(255, 0, 0); font-family: "Arial"; font-size: 11px; font-weight: bold; text-decoration: none;
+}
+.alert {
+	width: 15px; height: 15px; background-image: url("../../img/pic/login/gt_error.gif"); background-repeat: no-repeat;
+}
+.errorSpot {
+	width: 10px; height: 16px; background-image: url("../../img/icon/errorSpot.gif"); background-repeat: no-repeat;
+}
